@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidsLab</string>
+    <string name="hello_message">أهلا بكم!</string>
+    <string name="ButtonText">أنا زر!</string>
+</resources>
