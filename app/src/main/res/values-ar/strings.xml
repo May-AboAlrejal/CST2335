@@ -3,4 +3,10 @@
     <string name="app_name">AndroidsLab</string>
     <string name="hello_message">أهلا بكم!</string>
     <string name="ButtonText">أنا زر!</string>
+    <string name="GUI">أنظر إلى هذا:</string>
+    <string name="Click">إضغط هنا</string>
+    <string name="Check">تحقق من هذا!</string>
+    <string name="Switch">تشغيل / إيقاف</string>
+    <string name="Type">أكتب هنا</string>
+    <string name="flag">علم اليمن</string>
 </resources>
