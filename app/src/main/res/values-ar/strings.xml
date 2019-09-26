@@ -3,4 +3,15 @@
     <string name="app_name">AndroidsLab</string>
     <string name="hello_message">أهلا بكم!</string>
     <string name="ButtonText">أنا زر!</string>
+    <string name="EnterEmail">أدخل عنوانك البريدي:</string>
+    <string name="TypeEmail">إطبع عنوانك البريدي هنا</string>
+    <string name="TypePassword">أدخل كلمة السر</string>
+    <string name="Login">دخول</string>
+    <string name="UserProfile">ملفك الشخصي</string>
+    <string name="UserName">الإسم:</string>
+    <string name="EnterName">إدخل الإسم</string>
+    <string name="UserEmail">العنوان البريدي:</string>
+    <string name="EnterEmail2">إدخل عنوان البريد</string>
+    <string name="UserPicture">الصورة:</string>
+    <string name="CameraButton">إضغط الزر لإخذ صورة</string>
 </resources>
