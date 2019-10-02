@@ -14,4 +14,8 @@
     <string name="EnterEmail2">إدخل عنوان البريد</string>
     <string name="UserPicture">الصورة:</string>
     <string name="CameraButton">إضغط الزر لإخذ صورة</string>
+    <string name="goToChatButton">إذهب لغرفة المحادثة</string>
+    <string name="message">إكتب هنا</string>
+    <string name="receiveButton">إستقبال</string>
+    <string name="sendButton">إرسال</string>
 </resources>

@@ -44,6 +44,14 @@ public class ProfileActivity extends AppCompatActivity {
 
         });
 
+        Button goToChatButton = findViewById(R.id.goToChatButton);
+        if(goToChatButton != null){
+            goToChatButton.setOnClickListener(clk -> {
+                Intent goToChatRoomActivity = new Intent(ProfileActivity.this, ChatRoomActivity.class);
+                startActivity(goToChatRoomActivity);
+            });
+        }
+
     }
 
     @Override

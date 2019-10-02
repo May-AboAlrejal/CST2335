@@ -36,7 +36,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivityForResult(goToProfileActivity, 11);
             });
         }
-
     }
 
     @Override
