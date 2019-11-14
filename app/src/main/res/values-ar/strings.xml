@@ -18,4 +18,9 @@
     <string name="message">إكتب هنا</string>
     <string name="receiveButton">إستقبال</string>
     <string name="sendButton">إرسال</string>
+    <string name="goToWeather">تفقد الطقس</string>
+    <string name="currentTemp">درجة الحرارة حاليا:</string>
+    <string name="maxTemp">درجة الحرارة العظمى:</string>
+    <string name="minTemp">درجة الحرارة الأدنى:</string>
+    <string name="uvRating">معدل الإشعاع:</string>
 </resources>

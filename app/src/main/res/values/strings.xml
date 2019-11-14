@@ -17,4 +17,9 @@
     <string name="message">type here!</string>
     <string name="receiveButton">RECEIVE</string>
     <string name="sendButton">SEND</string>
+    <string name="goToWeather">Check Weather</string>
+    <string name="currentTemp">Current Temperature:</string>
+    <string name="maxTemp">Max Temperature:</string>
+    <string name="minTemp">Min Temperature:</string>
+    <string name="uvRating">UV Rating:</string>
 </resources>
