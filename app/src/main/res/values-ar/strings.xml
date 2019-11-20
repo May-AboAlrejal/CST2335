@@ -23,4 +23,11 @@
     <string name="maxTemp">درجة الحرارة العظمى:</string>
     <string name="minTemp">درجة الحرارة الأدنى:</string>
     <string name="uvRating">معدل الإشعاع:</string>
+    <string name="goToToolbar">إذهب إلى الجحيم</string>
+    <string name="item1">إختيار 1</string>
+    <string name="item2">إختيار 2</string>
+    <string name="item3">إختيار 3</string>
+    <string name="item14">إختيار 4</string>
+    <string name="newMessage">ما هي رسالتك؟</string>
+    <string name="typeHere">إكتب هنا</string>
 </resources>

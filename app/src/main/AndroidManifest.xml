@@ -5,6 +5,7 @@
     <uses-feature
         android:name="android.hardware.camera"
         android:required="true" />
+
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -14,7 +15,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".WeatherForecast"/>
+        <activity android:name=".TestToolbar" />
+        <activity android:name=".WeatherForecast" />
         <activity android:name=".ProfileActivity" />
         <activity android:name=".ChatRoomActivity" />
         <activity android:name=".MainActivity">

@@ -79,4 +79,14 @@
         android:layout_height="wrap_content"
         android:text="@string/goToWeather" />
 
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+
+    <Button
+        android:id="@+id/goToToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/goToToolbar" />
+
 </LinearLayout>

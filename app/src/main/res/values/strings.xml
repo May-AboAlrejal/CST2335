@@ -22,4 +22,12 @@
     <string name="maxTemp">Max Temperature:</string>
     <string name="minTemp">Min Temperature:</string>
     <string name="uvRating">UV Rating:</string>
+    <string name="goToToolbar">Go to Toolbar page</string>
+    <string name="item1">Item 1</string>
+    <string name="item2">Item 2</string>
+    <string name="item3">Item 3</string>
+    <string name="item14">Item 4</string>
+    <string name="newMessage">What is your new message?</string>
+    <string name="typeHere">Type here</string>
+
 </resources>

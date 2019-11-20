@@ -60,6 +60,14 @@ public class ProfileActivity extends AppCompatActivity {
             });
         }
 
+        Button goToToolbar = findViewById(R.id.goToToolbar);
+        if(goToToolbar != null){
+            goToToolbar.setOnClickListener(clk -> {
+                Intent goToToolbarActivity = new Intent(ProfileActivity.this, TestToolbar.class);
+                startActivity(goToToolbarActivity);
+            });
+        }
+
     }
 
     @Override
