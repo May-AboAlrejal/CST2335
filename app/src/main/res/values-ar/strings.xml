@@ -30,4 +30,10 @@
     <string name="item14">إختيار 4</string>
     <string name="newMessage">ما هي رسالتك؟</string>
     <string name="typeHere">إكتب هنا</string>
+
+    <string name="messageText">رسالة: </string>
+    <string name="id">هوية: </string>
+    <string name="type">نوع: </string>
+    <string name="delete">إلغاء</string>
+    <string name="position">ترتيب: </string>
 </resources>

@@ -30,4 +30,10 @@
     <string name="newMessage">What is your new message?</string>
     <string name="typeHere">Type here</string>
 
+    <string name="messageText">Message: </string>
+    <string name="id">Id: </string>
+    <string name="type">Type: </string>
+    <string name="delete">Delete</string>
+    <string name="position">Position: </string>
+
 </resources>

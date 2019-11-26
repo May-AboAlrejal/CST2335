@@ -16,6 +16,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".TestToolbar" />
+        <activity android:name=".MessageDetailsActivity" />
         <activity android:name=".WeatherForecast" />
         <activity android:name=".ProfileActivity" />
         <activity android:name=".ChatRoomActivity" />
