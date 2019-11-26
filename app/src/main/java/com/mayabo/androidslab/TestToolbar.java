@@ -68,13 +68,13 @@ public class TestToolbar extends AppCompatActivity {
         Builder builder = new Builder(thisApp);
 
         builder.setView(v)
-                .setPositiveButton("Positive", new DialogInterface.OnClickListener() {
+                .setPositiveButton("Ok", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id) {
                         EditText text = v.findViewById(R.id.typeHere);
                         message = text.getText().toString();
                     }
                 })
-                .setNegativeButton("Negative", new DialogInterface.OnClickListener() {
+                .setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id) {
                     }
                 }).create().show();
